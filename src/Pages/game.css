@@ -1,0 +1,18 @@
+.App{
+   
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.gameboarddiv{
+    display: flex;
+    justify-content: center;
+
+}
+.bye{
+    display: none;
+}
+#reset{
+    display: flex;
+    width: 3vw;
+}
